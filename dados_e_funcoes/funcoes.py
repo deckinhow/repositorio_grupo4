@@ -4,7 +4,7 @@ Assim, o código fica mais fluido e limpo.
 '''
 
 def teste():
-  return(print("oii"))
+  return print("oii")
 
 
 
